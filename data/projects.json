@@ -17,6 +17,10 @@
       ],
       "images": [
         {
+          "src": "gelu-foto.png",
+          "caption": "Planta general — zonificación del mueble isla."
+        },
+        {
           "src": "gelu-despiece.png",
           "caption": "Despiece del mueble isla — partes GL-100A a GL-100E."
         }
@@ -38,6 +42,10 @@
         "Se diseñó mobiliario conforme a la nueva estética, respetando las dimensiones estándar para la correcta exhibición de la ropa. El espacio se estructura en torno a una mesa central, acompañada por mesas menores orientadas hacia el recorrido del cliente, un área de lounge y un perímetro de vigas en el cielo que enmarca el corner y refuerza su identidad dentro de la multitienda."
       ],
       "images": [
+        {
+          "src": "wolfhank-foto.png",
+          "caption": "Corner construido — vista desde el pasillo de Falabella Parque Arauco."
+        },
         {
           "src": "wolfhank-layout.png",
           "caption": "Planta layout y planta cielo."
@@ -65,6 +73,10 @@
       ],
       "images": [
         {
+          "src": "starbucks-foto.png",
+          "caption": "Fachada de la tienda construida — Starbucks El Belloto."
+        },
+        {
           "src": "starbucks-layout.png",
           "caption": "Planta layout e isométrica."
         },
@@ -90,6 +102,10 @@
         "Finalmente, junto al equipo creativo, se desarrolló e implementó la propuesta de vitrina, flexible según temporada y alineada con la calidez del hogar japonés que caracteriza a la marca. El proyecto integró diseño y gestión, logrando un espacio funcional con identidad Toyotomi."
       ],
       "images": [
+        {
+          "src": "toyotomi-foto.png",
+          "caption": "Fachada del showroom construido — vitrina estacional."
+        },
         {
           "src": "toyotomi-demolicion.png",
           "caption": "Plantas de demolición y construcción — pisos 1 y 2."
