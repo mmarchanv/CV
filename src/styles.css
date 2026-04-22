@@ -148,11 +148,6 @@ a:hover { text-decoration: underline; }
   color: #fff;
 }
 
-.pill-primary:hover {
-  background: #8b3f20;
-  border-color: #8b3f20;
-}
-
 /* ---------- Intro / hero ---------- */
 .hero-name {
   font-size: 112px;
