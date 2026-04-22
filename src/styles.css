@@ -3,8 +3,8 @@
    6px left accent rail + 3px bottom accent rail per page. */
 
 :root {
-  --color-accent: #B5522B;
-  --color-accent-soft: #F5EAE5;
+  --color-accent: #00AEEF;
+  --color-accent-soft: #E0F4FC;
   --color-bg: #EFEFED;
   --color-ink: #111110;
   --color-ink-soft: #555550;
