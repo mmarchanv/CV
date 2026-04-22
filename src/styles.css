@@ -561,13 +561,18 @@ a:hover { text-decoration: underline; }
 /* ---------- Intro hero background sketch ---------- */
 .slide-intro .hero-sketch {
   position: absolute;
-  inset: 0;
+  right: 0;
+  bottom: var(--rail-bottom);
+  width: min(55vw, 720px);
+  height: min(55vh, 420px);
   background-image: url("./assets/hero-sketch.png");
   background-repeat: no-repeat;
-  background-position: center center;
+  background-position: right bottom;
   background-size: contain;
   image-rendering: -webkit-optimize-contrast;
   opacity: 0.28;
+  -webkit-mask-image: linear-gradient(to right, transparent 0%, #000 25%, #000 100%);
+          mask-image: linear-gradient(to right, transparent 0%, #000 25%, #000 100%);
   pointer-events: none;
   z-index: 0;
 }
@@ -575,7 +580,13 @@ a:hover { text-decoration: underline; }
 .slide-intro .slide-inner { position: relative; z-index: 1; }
 
 @media (max-width: 900px) {
-  .slide-intro .hero-sketch { opacity: 0.22; }
+  .slide-intro .hero-sketch {
+    width: 100%;
+    height: 36vh;
+    opacity: 0.18;
+    -webkit-mask-image: linear-gradient(to top, #000 0%, transparent 100%);
+            mask-image: linear-gradient(to top, #000 0%, transparent 100%);
+  }
 }
 
 /* ---------- Projects page ---------- */
