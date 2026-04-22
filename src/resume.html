@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{profile.name}} — {{labels.resume}}</title>
+    <meta name="description" content="{{profile.name}} — Currículum." />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="../styles.css" />
+  </head>
+  <body>
+    <header class="toolbar" role="banner">
+      <div class="toolbar-inner">
+        <div class="toolbar-left">
+          <a href="../" style="color:inherit;text-decoration:none">{{profile.name}}</a>
+        </div>
+        <div class="toolbar-actions">
+          <a class="pill" href="../">{{labels.intro}}</a>
+          <a class="pill" href="../projects/">{{labels.projects}}</a>
+          <a class="pill pill-primary" href="../cv.pdf" download="CV_Maite_Marchan.pdf">{{labels.downloadCv}}</a>
+        </div>
+      </div>
+    </header>
+
+    <main class="slide" aria-label="{{labels.resume}}">
+      <div class="slide-inner">
+        <div class="slide-chrome">
+          <span>· {{labels.resume}}</span>
+          <span class="slide-num">02</span>
+        </div>
+        {{{resumeBody}}}
+      </div>
+    </main>
+
+    <footer class="page-footer">
+      <a href="https://github.com/{{githubUser}}/CV" target="_blank" rel="noopener">github.com/{{githubUser}}/CV</a>
+      <span style="margin: 0 10px">·</span>
+      <span>{{buildDate}}</span>
+    </footer>
+  </body>
+</html>

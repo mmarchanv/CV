@@ -1,0 +1,122 @@
+{
+  "lang": "es",
+  "locale": "es-CL",
+  "meta": {
+    "title": "Maite Marchan Villa — Arquitecta",
+    "description": "Maite Marchan Villa — Arquitecta. Currículum y portafolio."
+  },
+  "labels": {
+    "downloadCv": "Descargar CV",
+    "downloadPortfolio": "Descargar Portafolio",
+    "resume": "Currículum",
+    "projects": "Proyectos",
+    "intro": "Introducción",
+    "summary": "Perfil",
+    "skills": "Habilidades",
+    "languages": "Idiomas",
+    "experience": "Experiencia",
+    "workshop": "Workshop",
+    "education": "Formación Académica",
+    "present": "Presente",
+    "skillsBadge": "Herramientas",
+    "rolesBadge": "Cargos",
+    "projectsBadge": "Proyectos",
+    "projectType": "Tipo",
+    "projectLocation": "Ubicación",
+    "projectYear": "Año",
+    "projectStatus": "Estado"
+  },
+  "profile": {
+    "name": "Maite Marchan Villa",
+    "firstName": "Maite",
+    "lastName": "Marchan Villa",
+    "headline": "Arquitecta",
+    "location": "Chile",
+    "phone": "+56 9 9814 2983",
+    "email": "maimarchan.arq@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/maite-marchan/",
+    "linkedinLabel": "linkedin.com/in/maite-marchan"
+  },
+  "summary": "Profesional egresada de la Pontificia Universidad Católica de Valparaíso. Interesada en seguir perfeccionando mis habilidades en el desarrollo de proyectos de pequeña y gran escala con impacto en la comunidad. Organizada, eficiente, responsable, con alta capacidad para trabajar en equipo y con constante búsqueda de aprendizaje.",
+  "skills": [
+    {
+      "group": "Software",
+      "items": [
+        "AutoCAD",
+        "SketchUp",
+        "Revit",
+        "D5 Render",
+        "Adobe InDesign",
+        "Adobe Illustrator",
+        "Adobe Photoshop",
+        "Excel"
+      ]
+    },
+    {
+      "group": "Idiomas",
+      "items": [
+        "Español (Nativo)",
+        "Inglés B2 (PET Cambridge)",
+        "Francés A2"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "role": "Arquitecta",
+      "company": "In Store",
+      "start": "2023",
+      "end": "2025",
+      "bullets": [
+        "Desarrollo de planimetrías para proyectos de retail: habilitaciones y remodelaciones de locales comerciales.",
+        "Cubicaciones, itemizados y especificaciones técnicas para ejecución de obra.",
+        "Elaboración de estados de pago y gestión de ingresos municipales.",
+        "Supervisión de obras en terreno y coordinación de especialidades."
+      ]
+    },
+    {
+      "role": "Arquitecta",
+      "company": "RFH+ Arquitectos",
+      "start": "2022",
+      "end": "2023",
+      "bullets": [
+        "Diseño planimétrico y modelado 3D de espacios industriales y comerciales.",
+        "Proyectos de interiorismo y visualizaciones 3D para presentación a clientes.",
+        "Interacción directa con clientes durante el desarrollo del proyecto."
+      ]
+    },
+    {
+      "role": "Práctica profesional e[ad] — Asistencia Técnica de Arquitectura",
+      "company": "Proyecto Etnocientífico Jetarkte",
+      "start": "2020",
+      "end": "2020",
+      "bullets": [
+        "Desarrollo de módulos de aseo para el proyecto Etnocientífico Jetarkte en Puerto Edén."
+      ]
+    }
+  ],
+  "workshops": [
+    {
+      "name": "Travesía Limache",
+      "description": "Plan maestro y construcción en madera de hitos para la escuela Kimün.",
+      "year": "2019"
+    },
+    {
+      "name": "Taller de Obra — Portal de los Huéspedes",
+      "description": "Estudio de deformación de pilares en moldajes flexibles, obra \"Portal de los Huéspedes\", Ciudad Abierta.",
+      "year": "2018"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Arquitectura",
+      "institution": "Escuela de Arquitectura y Diseño, Pontificia Universidad Católica de Valparaíso",
+      "period": "2016 - 2021"
+    },
+    {
+      "degree": "Educación Media",
+      "institution": "Colegio San Pedro Nolasco de Valparaíso",
+      "period": "2013 - 2015"
+    }
+  ]
+}

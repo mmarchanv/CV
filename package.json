@@ -1,0 +1,18 @@
+{
+  "name": "maite-cv",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Maite Marchan — Arquitecta. Personal CV and portfolio site generated from JSON data.",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "serve": "npx --yes http-server dist -p 8080 -c-1",
+    "dev": "npm run build && npm run serve"
+  },
+  "dependencies": {
+    "mustache": "^4.2.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

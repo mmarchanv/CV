@@ -1,0 +1,108 @@
+{
+  "projects": [
+    {
+      "num": "01",
+      "slug": "gelu",
+      "title": "Mueble isla para Heladería Gelú",
+      "subtitle": "Diseño de mobiliario",
+      "type": "Diseño de mobiliario",
+      "location": "Centroamérica",
+      "year": "2024",
+      "status": "Proyecto",
+      "lead": "Diseño de mueble isla para heladería en centro comercial, incorporando equipos existentes y adaptando la propuesta a las limitaciones dimensionales y técnicas del equipamiento.",
+      "paragraphs": [
+        "El objetivo fue desarrollar una propuesta, para presentar posteriormente al mall, donde se determinaran las medidas mínimas del módulo que permitieran ubicar todos los equipos de forma eficiente, considerando la movilidad del encargado de tienda dentro del espacio.",
+        "El mueble se desarrolló en partes para facilitar el transporte e instalación en el sitio. Se pensó en un diseño sencillo y en la creación de planos detallados, ya que el proyecto se realizaría en Centroamérica, lo que requería una planificación precisa para asegurar una buena ejecución en el lugar.",
+        "El diseño buscó optimizar el flujo de trabajo, generando una operación fluida para garantizar una atención ágil al consumidor."
+      ],
+      "images": [
+        {
+          "src": "gelu-despiece.png",
+          "caption": "Despiece del mueble isla — partes GL-100A a GL-100E."
+        }
+      ]
+    },
+    {
+      "num": "02",
+      "slug": "wolf-hank",
+      "title": "Corner Wolf & Hank Parque Arauco",
+      "subtitle": "Propuesta de layout y diseño de mobiliario",
+      "type": "Propuesta de layout y diseño de mobiliario",
+      "location": "Santiago, Chile",
+      "year": "2025",
+      "status": "Construido",
+      "lead": "Diseño de nueva imagen para el corner de la marca masculina Wolf & Hank al interior de Falabella.",
+      "paragraphs": [
+        "El proyecto consistió en desarrollar una nueva imagen comercial, tomando como referencia marcas extranjeras de ropa masculina y la estética urbana de Ámsterdam. La propuesta se tradujo en el uso de madera bruta, acero bruñido y estructuras de vigas, reforzando el carácter masculino, industrial y contemporáneo de la marca.",
+        "El layout fue desarrollado de acuerdo con los lineamientos espaciales de Falabella y las directrices de su equipo de visual merchandising, asegurando una correcta lectura del producto y del recorrido.",
+        "Se diseñó mobiliario conforme a la nueva estética, respetando las dimensiones estándar para la correcta exhibición de la ropa. El espacio se estructura en torno a una mesa central, acompañada por mesas menores orientadas hacia el recorrido del cliente, un área de lounge y un perímetro de vigas en el cielo que enmarca el corner y refuerza su identidad dentro de la multitienda."
+      ],
+      "images": [
+        {
+          "src": "wolfhank-layout.png",
+          "caption": "Planta layout y planta cielo."
+        },
+        {
+          "src": "wolfhank-render.png",
+          "caption": "Corner construido — interior Falabella Parque Arauco."
+        }
+      ]
+    },
+    {
+      "num": "03",
+      "slug": "starbucks-el-belloto",
+      "title": "Stand Alone Starbucks El Belloto",
+      "subtitle": "Desarrollo de planimetrías y cruce de especialidades",
+      "type": "Desarrollo de planimetrías, cruce de especialidades y tramitación de permisos municipales",
+      "location": "Quilpué, Chile",
+      "year": "2024",
+      "status": "Construido",
+      "lead": "Desarrollo de planimetrías APC, tramitación municipal y supervisión de obra para la habilitación de tienda Starbucks El Belloto.",
+      "paragraphs": [
+        "La habilitación contempló la rectificación de la tienda existente para ajustar la propuesta enviada por la Corporación de Starbucks EEUU a las condiciones reales del espacio a intervenir. A partir de ello, se desarrolló el paquete de planimetrías y el diseño del mobiliario, incluyendo detalles constructivos para su fabricación.",
+        "Se definieron materialidades y colores en concordancia con los lineamientos de la marca, y se revisó la normativa chilena para ajustar dimensiones de mobiliario, circulaciones y alturas. Durante la etapa de ejecución, se realizaron supervisiones periódicas de obra, coordinando las distintas especialidades y resolviendo contingencias técnicas.",
+        "Paralelamente, se gestionó la documentación necesaria para la obtención de patente comercial, POM y certificación SEREMI. El proyecto integró diseño, normativa y gestión de obra, logrando una habilitación eficiente y coherente con la identidad de Starbucks."
+      ],
+      "images": [
+        {
+          "src": "starbucks-layout.png",
+          "caption": "Planta layout e isométrica."
+        },
+        {
+          "src": "starbucks-render.png",
+          "caption": "Tienda construida — Starbucks El Belloto, Quilpué."
+        }
+      ]
+    },
+    {
+      "num": "04",
+      "slug": "toyotomi",
+      "title": "Remodelación Showroom y Oficinas Toyotomi",
+      "subtitle": "Desarrollo de planimetrías y supervisión de obra",
+      "type": "Desarrollo de planimetrías, supervisión de obras y tramitación de permisos",
+      "location": "Santiago, Chile",
+      "year": "2025",
+      "status": "Construido",
+      "lead": "Desarrollo de planimetrías APC y mobiliario a medida para la remodelación de dos pisos del inmueble correspondiente al showroom y oficinas Toyotomi.",
+      "paragraphs": [
+        "La propuesta se basó en la estética japonesa y en la identidad de la marca, definiendo una paleta de colores sobrios y el uso de madera, blanco y rojo. Se diseñó mobiliario flexible y de alto soporte, adaptado a las distintas categorías de equipos y a su rotación estacional.",
+        "Durante la etapa de ejecución, se supervisaron las obras y especialidades involucradas, realizando ajustes de proyecto según requerimientos del cliente y condiciones del espacio existente. En paralelo, se gestionaron los permisos de obra menor y publicidad exigidos según normativa.",
+        "Finalmente, junto al equipo creativo, se desarrolló e implementó la propuesta de vitrina, flexible según temporada y alineada con la calidez del hogar japonés que caracteriza a la marca. El proyecto integró diseño y gestión, logrando un espacio funcional con identidad Toyotomi."
+      ],
+      "images": [
+        {
+          "src": "toyotomi-demolicion.png",
+          "caption": "Plantas de demolición y construcción — pisos 1 y 2."
+        },
+        {
+          "src": "toyotomi-layout.png",
+          "caption": "Plantas layout — pisos 1 y 2."
+        },
+        {
+          "src": "toyotomi-render.png",
+          "caption": "Showroom y oficinas construidos."
+        }
+      ]
+    }
+  ]
+}
