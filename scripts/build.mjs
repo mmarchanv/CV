@@ -85,6 +85,13 @@ async function main() {
   await copyFile(path.join(srcDir, "styles.css"), path.join(distDir, "styles.css"));
 
   try {
+    await copyDir(path.join(srcDir, "assets"), path.join(distDir, "assets"));
+    console.log("  OK dist/assets/ (src)");
+  } catch {
+    console.warn("  WARN no src/assets dir");
+  }
+
+  try {
     await copyDir(path.join(dataDir, "projects"), path.join(distDir, "assets", "projects"));
     console.log("  OK dist/assets/projects/");
   } catch {

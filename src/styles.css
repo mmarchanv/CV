@@ -558,6 +558,28 @@ a:hover { text-decoration: underline; }
   .toolbar-left { font-size: 11px; }
 }
 
+/* ---------- Intro hero background sketch ---------- */
+.slide-intro .hero-sketch {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: var(--rail-bottom);
+  height: min(46vh, 420px);
+  background-image: url("./assets/hero-sketch.png");
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-size: contain;
+  opacity: 0.18;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.slide-intro .slide-inner { position: relative; z-index: 1; }
+
+@media (max-width: 900px) {
+  .slide-intro .hero-sketch { height: 30vh; opacity: 0.14; }
+}
+
 /* ---------- Projects page ---------- */
 .project-list {
   display: flex;
